@@ -91,3 +91,5 @@ $\frac{5280}{3600} = \frac{528}{360} = \frac{264}{180} = \frac{132}{90} = \frac{
 $25 \times \frac{22}{15} = \frac{25 \times 22}{15} = \frac{550}{15} = \frac{110}{3} \approx 36.67 \ \text{feet per second}.$
 
 This step-by-step approach ensures units cancel properly and helps avoid errors in placement of conversion factors.
+
+Copyright 2025 LogosTeach - All Rights Reserved
