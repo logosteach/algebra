@@ -47,9 +47,9 @@ Students often mishandle combining like terms, distributing negatives, or basic 
 **Mistake:** Distributing the negative incorrectly to get $6x + y - 7x = -x + y$, then erroneously writing $-1xy$ (treating it as a product).
 
 **Explanation:** Correct distribution:
-$$
-6x - (-y + 7x) + 1 = 6x + y - 7x + 1 = -x + y + 1
-$$
+
+$6x - (-y + 7x) + 1 = 6x + y - 7x + 1 = -x + y + 1$
+
 The mistake occurs in mishandling the negative sign over the parentheses and then confusing subtraction with multiplication.
 
 ### c) $-3 - 5 = -2$
