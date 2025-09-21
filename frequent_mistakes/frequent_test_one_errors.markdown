@@ -83,13 +83,11 @@ The mistake occurs in mishandling the negative sign over the parentheses and the
 3. Convert hours to seconds: Multiply by the conversion factor $\frac{1 \ \text{hour}}{3600 \ \text{seconds}}$ (or divide by 3600), so $\frac{25 \times 5280}{3600} \ \frac{\text{feet}}{\text{second}}$.
 
 4. Simplify the fraction: First, reduce
-$$
-\frac{5280}{3600} = \frac{528}{360} = \frac{264}{180} = \frac{132}{90} = \frac{66}{45} = \frac{22}{15}.
-$$
+
+$\frac{5280}{3600} = \frac{528}{360} = \frac{264}{180} = \frac{132}{90} = \frac{66}{45} = \frac{22}{15}.$
 
 5. Multiply by 25:
-$$
-25 \times \frac{22}{15} = \frac{25 \times 22}{15} = \frac{550}{15} = \frac{110}{3} \approx 36.67 \ \text{feet per second}.
-$$
+
+$25 \times \frac{22}{15} = \frac{25 \times 22}{15} = \frac{550}{15} = \frac{110}{3} \approx 36.67 \ \text{feet per second}.$
 
 This step-by-step approach ensures units cancel properly and helps avoid errors in placement of conversion factors.
