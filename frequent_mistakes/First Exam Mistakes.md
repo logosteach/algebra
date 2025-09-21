@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" type="text/javascript"></script>
+
 # Common Mistakes Made on the First Exam
 
 ## 1. Evaluating expressions is not yet fully understood.
@@ -83,8 +85,3 @@ Students often mishandle combining like terms, distributing negatives, or basic 
 5. Multiply by 25: \( 25 \times \frac{22}{15} = \frac{25 \times 22}{15} = \frac{550}{15} = \frac{110}{3} \approx 36.67 \) feet per second.
 
 This step-by-step approach ensures units cancel properly and helps avoid errors in placement of conversion factors.
-```Here's the complete content of the Markdown file `frequent_test_one_errors.md`. To download it:
-
-1. Copy the text below into a new file using any text editor (e.g., Notepad, VS Code, or TextEdit).
-2. Save the file with the name `frequent_test_one_errors.md` (make sure the extension is `.md`).
-3. It will then open in any Markdown viewer or editor.
