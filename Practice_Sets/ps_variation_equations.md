@@ -1,7 +1,3 @@
-Here is a clean, GitHub-friendly Markdown homework file with **25 problems** ranging from very easy to challenging (Algebra 1 level only).  
-No negative exponents appear anywhere — all powers are written as fractions with superscripts using `<sup>` so everything displays perfectly on GitHub, Google Docs, or printed handouts.
-
-```markdown
 # Practice Set: Variation Equations  
 **Name:** ______________________________ **Date:** ________________
 
@@ -51,10 +47,7 @@ No negative exponents appear anywhere — all powers are written as fractions wi
     How long will it take to fill a 2000-liter tank using a pipe of radius 4 cm?
 
 **Show all work on separate paper. Good luck!**
-```
 
 This set gradually increases in difficulty.  
 Problems 24 and 25 are the two hardest (multi-step combined power variation), but every step uses only skills from Algebra 1: proportions, exponents as repeated multiplication, and solving simple equations.  
-Everything displays perfectly on GitHub, Canvas, Google Classroom, or printed handouts.
 
-Enjoy your class!
