@@ -12,7 +12,7 @@
 6. The length L of a spring varies directly with the weight W hanging on it. A 10-N weight stretches it 4 cm. How far does a 25-N weight stretch it?
 
 ### Inverse Variation (7–12)
-7. y varies inversely with x. If y = 20 when x = 6, find y when x = 10.  
+7. y varies inversely with x. (Begin with $y=\frac{k}{x}$) If y = 20 when x = 6, find y when x = 10.  
 8. Time t varies inversely with speed s. A trip takes 5 hours at 60 km/h. How long at 80 km/h?  
 9. The time t to paint a house varies inversely with the number of painters p. 6 painters take 15 hours. How many painters to finish in 10 hours?  
 10. Pressure P varies inversely with volume V. If P = 80 when V = 30, find P when V = 50.  
@@ -20,7 +20,7 @@
 12. Illumination I varies inversely with the square of distance d from a light. If I = 100 when d = 3 m, find I when d = 6 m.
 
 ### Joint Variation (13–18)
-13. z varies jointly with x and y. If z = 24 when x = 3 and y = 4, find z when x = 5 and y = 6.  
+13. z varies jointly with x and y. (Begin with $z = kxy$) If z = 24 when x = 3 and y = 4, find z when x = 5 and y = 6.  
 14. Volume V varies jointly with length l, w, and h. A box 2 m × 3 m × 4 m has volume 24 m³. What is the volume of a 5 m × 5 m × 2 m box?  
 15. The cost C of a party varies jointly with number of guests g and hours h. 20 guests for 3 hours cost $360. How much for 30 guests for 5 hours?  
 16. Power P varies jointly with current I and resistance R. P = 48 when I = 4 and R = 3. Find P when I = 6 and R = 5.  
@@ -29,7 +29,7 @@
    If F = 20 when m₁ = 5, m₂ = 8, r = 4, find F when m₁ = 10, m₂ = 6, r = 3.
 
 ### Combined & Power Variation (19–25)
-19. y varies directly with x and inversely with w. y = 18 when x = 9 and w = 3. Find y when x = 20 and w = 5.  
+19. y varies directly with x and inversely with w. (Begin with $y=\frac{kx}{w}$) y = 18 when x = 9 and w = 3. Find y when x = 20 and w = 5.  
 20. Time t varies directly with distance d and inversely with speed s. A 300-km trip at 60 km/h takes 5 hours. How long at 75 km/h?  
 21. Force F varies directly with d and inversely with the square of t. F = 50 when d = 10 and t = 2. Find F when d = 15 and t = 3.  
 22. The weight W a beam can support varies directly with its width w and the square of its depth h, and inversely with its length L.  
