@@ -4,7 +4,7 @@
 **Directions:** Write the equation, find the constant when needed, then solve. Show all steps.
 
 ### Direct Variation (1–6)
-1. y varies directly with x. If y = 15 when x = 5, find y when x = 12.  
+1. y varies directly with x. (Begin with $y = kx$) If y = 15 when x = 5, find y when x = 12.  
 2. The cost C varies directly with the number of pounds p. 8 pounds cost $28. How much do 15 pounds cost?  
 3. Distance d varies directly with time t. A car goes 180 miles in 3 hours. How far does it go in 7 hours?  
 4. The pay P varies directly with hours worked h. Juan earns $117 for 9 hours. How much does he earn for 40 hours?  
