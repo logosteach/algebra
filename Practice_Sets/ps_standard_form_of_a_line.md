@@ -1,4 +1,4 @@
-# 25 Linear Equations: Convert to Standard Form
+# Practice Set - Stanard Form of a Linear Equation
 
 Convert each equation to standard form $Ax + By = C$, where $A$, $B$, and $C$ are integers (or involve $\pi$ where present), $A \geq 0$, and $A$ and $B$ are not both zero.
 
